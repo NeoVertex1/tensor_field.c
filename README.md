@@ -1,7 +1,7 @@
 # tensor_field.c
 
 ## **Tensor Field Prototype in C**
-This project is a **prototype implementation** of a tensor field system in C. It is designed as a starting point to explore tensor-based operations, eigenvalue computations, and data visualization. While the current implementation provides basic functionality, it sets the stage for more advanced features and real-world applications.
+This project is a **prototype implementation** of a tensor field system in C. It is designed as a starting point to explore tensor-based operations, eigenvalue computations, and data visualization. While the current implementation provides basic functionality, it sets the stage for more advanced features.
 
 ---
 
